@@ -1,0 +1,45 @@
+                    Benchmark    Strategy
+------------------  -----------  ----------
+Start Period        2024-01-02   2024-01-02
+End Period          2024-06-07   2024-06-07
+Risk-Free Rate      0.0%         0.0%
+Time in Market      100.0%       100.0%
+
+Cumulative Return   32.98%       213.86%
+CAGR﹪              58.02%       527.05%
+
+Sharpe              3.14         8.92
+Prob. Sharpe Ratio  98.51%       100.0%
+Sortino             5.76         25.63
+Sortino/√2          4.07         18.12
+Omega               4.47         4.47
+
+Max Drawdown        -7.0%        -3.83%
+Longest DD Days     39           13
+
+Gain/Pain Ratio     0.68         3.47
+Gain/Pain (1M)      10.56        -
+
+Payoff Ratio        1.38         2.29
+Profit Factor       1.68         4.47
+Common Sense Ratio  2.17         12.89
+CPC Index           1.23         7.2
+Tail Ratio          1.29         2.89
+Outlier Win Ratio   3.53         2.27
+Outlier Loss Ratio  2.81         2.27
+
+MTD                 -2.51%       -0.04%
+3M                  15.95%       54.96%
+6M                  32.98%       213.86%
+YTD                 32.98%       213.86%
+1Y                  32.98%       213.86%
+3Y (ann.)           58.02%       527.05%
+5Y (ann.)           58.02%       527.05%
+10Y (ann.)          58.02%       527.05%
+All-time (ann.)     58.02%       527.05%
+
+Avg. Drawdown       -2.18%       -1.48%
+Avg. Drawdown Days  7            4
+Recovery Factor     4.22         30.52
+Ulcer Index         0.03         0.01
+Serenity Index      2.99         74.9
